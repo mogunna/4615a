@@ -1,4 +1,5 @@
-
+//Rule 12. Thread-Safety Miscellaneous (TSM)
+//Example TSM00-J. Do not override thread-safe methods with methods that are not thread-safe
 class Base {
   public synchronized void doSomething() {
     // ...

@@ -1,4 +1,5 @@
-
+//Rule 09. Locking (LCK)
+//Example LCK03-J. Do not synchronize on the intrinsic locks of high-level concurrency objects
 private final Lock lock = new ReentrantLock();
  
 public void doSomething() {

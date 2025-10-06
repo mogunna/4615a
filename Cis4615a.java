@@ -8,7 +8,7 @@
  *
  * Revision History:
  *   % java Cis4615a
- *  Hello, World - from the class of CIS4615 - Fall 2022 - UCF
+ *  Hello, World - from the class of CIS4615 - Fall 2025 UCF
  *  %
  *
  ******************************************************************************/

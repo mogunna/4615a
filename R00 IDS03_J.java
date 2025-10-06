@@ -1,4 +1,5 @@
-
+//Rule 0. nput Validation and Data Sanitization (IDS) 
+//Example DS03-J. Do not log unsanitized user input
 if (loginSuccessful) {
   logger.severe("User login succeeded for: " + sanitizeUser(username));
 } else {
